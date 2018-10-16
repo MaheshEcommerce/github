@@ -1,0 +1,177 @@
+Hi Hello
+Welcome to Mithun technologies
+
+Bhaskar
+=Roles=
+Each role defined is detailed in the following sections.
+==System Administrator==
+This role grants the following permissions:
+*Audit - Alerts
+*Audit - Audit Logs
+*Audit - Business Object Logs
+*Audit - Configure Design Controls
+*Audit - Process Logs
+*Audit - Statistics
+*Audit - View Design Controls
+*Business Objects - Configure Environment Variables
+*Business Objects - Exception Types
+*Business Objects - Exposure
+*Business Objects - External
+*Business Objects - History
+*Business Objects - Management
+*Business Objects - View Environment Variables
+*Business Objects - Web Services
+*Compare Business Objects
+*Compare Processes
+*Configure Process Alerts
+*Create Release
+*Create Schedule
+*Create/Clone Business Object
+*Create/Clone Process
+*Create/Edit Package
+*Create/Edit/Delete Tiles
+*Delete Business Object
+*Delete Package
+*Delete Process
+*Delete Schedule
+*Design Global Dashboards
+*Design Personal Dashboards
+*Edit Business Object
+*Edit Object Groups
+*Edit Process
+*Edit Process Groups
+*Edit Schedule
+*Export Business Object
+*Export Process
+*Full Access to Queue Management
+*Full Access to Session Management
+*Import Business Object
+*Import Global Dashboard
+*Import Process
+*Import Tile
+*Processes - Configure Environment Variables
+*Processes - Exception Types
+*Processes - Exposure
+*Processes - Grouping
+*Processes - History
+*Processes - Management
+*Processes - View Environment Variables
+*Read-Only Access to Queue Management
+*Read-Only Access to Session Management
+*Resources - Management
+*Resources - Pools
+*Retire Schedule
+*Security - Credentials
+*Security - Password Options
+*Security - Users
+*Subscribe to Process Alerts
+*System - Archiving
+*System - Calendars
+*System - Fonts
+*System - License
+*System - Reporting
+*System - Scheduler
+*System - Settings
+*System - Single Sign On
+*Test Business Object
+*Test Process
+*View Business Object
+*View Dashboards
+*View Process
+*View Release Manager
+*View Schedule
+*Workflow - Environment Locking
+*Workflow - Work Queue Configuration
+==Process Administrator==
+This role grants the following permissions:
+*Audit - Business Object Logs
+*Audit - Process Logs
+*Edit Object Groups
+*Edit Process Groups
+*Full Access to Queue Management
+*Full Access to Session Management
+*Read-Only Access to Queue Management
+*Read-Only Access to Session Management
+==Alert Subscriber==
+This role grants the following permissions:
+*Subscribe to Process Alerts
+==Schedule Manager==
+This role grants the following permissions:
+*Audit - Business Object Logs
+*Audit - Process Logs
+*Audit - Statistics
+*Audit - View Design Controls
+*Business Objects - Exception Types
+*Business Objects - External
+*Business Objects - History
+*Business Objects - Management
+*Business Objects - Web Services
+*Create Schedule
+*Delete Schedule
+*Edit Schedule
+*Full Access to Queue Management
+*Processes - Configure Environment Variables
+*Processes - Exception Types
+*Processes - History
+*Processes - Management
+*Resources - Pools
+*Retire Schedule
+*Security - Credentials
+*Security - Password Options
+*System - Archiving
+*System - Calendars
+*System - License
+*System - Scheduler
+*System - Settings
+*View Schedule
+*Workflow - Work Queue Configuration
+==Developer==
+This role grants the following permissions:
+*Compare Business Objects
+*Compare Processes
+*Create/Clone Business Object
+*Create/Clone Process
+*Delete Business Object
+*Delete Process
+*Edit Business Object
+*Edit Object Groups
+*Edit Process
+*Edit Process Groups
+*Export Business Object
+*Export Process
+*Import Business Object
+*Import Process
+*Test Business Object
+*Test Process
+*View Business Object
+*View Process
+==Tester==
+This role grants the following permissions:
+*Configure Process Alerts
+*Full Access to Queue Management
+*Full Access to Session Management
+*Read-Only Access to Queue Management
+*Read-Only Access to Session Management
+*Subscribe to Process Alerts
+*Test Business Object
+*Test Process
+=Permissions=
+The following is a complete list of available permissions, organised by group.
+Note that it is possible for a permission to appear in more than one group.
+==Control Room==
+*Full Access to Queue Management
+*Full Access to Session Management
+*Read-Only Access to Queue Management
+*Read-Only Access to Session Management
+==Dashboard==
+*Design Personal Dashboards
+*Design Global Dashboards
+*Create/Edit/Delete Tiles
+*View Dashboards
+*Import Tile
+*Import Global Dashboard
+==Object Studio==
+*Compare Business Objects
+*Create/Clone Business Object
+
+
